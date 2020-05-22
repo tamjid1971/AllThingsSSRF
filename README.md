@@ -25,6 +25,8 @@ This is currently work in progress I will add more resources as I find them.
 - [Orange Tsai A New Era of SSRF - Exploiting URL Parser in
 Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
 
+connect
+
 - [Infosec Institute SSRF Introduction](https://resources.infosecinstitute.com/the-ssrf-vulnerability/)
 
 - [SSRF bible](https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/SSRFbible%20Cheatsheet.pdf)
