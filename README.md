@@ -278,3 +278,7 @@ connect
 - [Pentester Lab Pro account: Essential: Server Side Request Forgery 04](https://pentesterlab.com/exercises/ssrf_04/course)
 
 - [Se8S0n SSRF Lab Guide](https://se8s0n.github.io/2019/05/19/SSRF-LABS%E6%8C%87%E5%8D%97/)
+
+
+
+locating thshe connection
