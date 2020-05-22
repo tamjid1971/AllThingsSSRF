@@ -279,6 +279,4 @@ connect
 
 - [Se8S0n SSRF Lab Guide](https://se8s0n.github.io/2019/05/19/SSRF-LABS%E6%8C%87%E5%8D%97/)
 
-
-
-locating thshe connection
+- [SSRF by Donat <3] (https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)
