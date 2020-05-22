@@ -282,3 +282,6 @@ connect
 - [SSRF by Donat <3](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)
 
 -[ssrf MAP](https://github.com/swisskyrepo/SSRFmap)
+
+
+-[Smuggling HTTP headers through reverse proxies](https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html)
